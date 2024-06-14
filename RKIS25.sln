@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RKIS25", "RKIS25\RKIS25.csproj", "{3C9D5B66-A1FE-488B-B9D6-20A020D93202}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RKIS25.Desktop", "RKIS25.Desktop\RKIS25.Desktop.csproj", "{FBDF00B3-09C3-4018-8BDC-CA37DCF6EFBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C9D5B66-A1FE-488B-B9D6-20A020D93202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9D5B66-A1FE-488B-B9D6-20A020D93202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9D5B66-A1FE-488B-B9D6-20A020D93202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9D5B66-A1FE-488B-B9D6-20A020D93202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBDF00B3-09C3-4018-8BDC-CA37DCF6EFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDF00B3-09C3-4018-8BDC-CA37DCF6EFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDF00B3-09C3-4018-8BDC-CA37DCF6EFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDF00B3-09C3-4018-8BDC-CA37DCF6EFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C67D367-22A3-4FFA-AEBB-CE0FCCCA1EBA}
+	EndGlobalSection
+EndGlobal
